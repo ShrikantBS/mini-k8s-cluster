@@ -1,0 +1,19 @@
+{
+  "name": "devops-geek-zone",
+  "version": "1.0.0",
+  "description": "Techno geek DevOps themed Node.js app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": ["devops", "nodejs", "express", "docker"],
+  "author": "Shrikant",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
